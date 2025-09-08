@@ -118,3 +118,4 @@ void loop()
         tsLastReport = millis();
      }
 }
+// This is a hardware code that we used to trigger arduino Nano for measuring the blood parameters of a user
